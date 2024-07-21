@@ -1,0 +1,12 @@
+C:\Users\818321\source\repos\course-assignment\registrationrepo\bin\Debug\net8.0\registrationrepo.deps.json
+C:\Users\818321\source\repos\course-assignment\registrationrepo\bin\Debug\net8.0\registrationrepo.dll
+C:\Users\818321\source\repos\course-assignment\registrationrepo\bin\Debug\net8.0\registrationrepo.pdb
+C:\Users\818321\source\repos\course-assignment\registrationrepo\obj\Debug\net8.0\registrationrepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\818321\source\repos\course-assignment\registrationrepo\obj\Debug\net8.0\registrationrepo.AssemblyInfoInputs.cache
+C:\Users\818321\source\repos\course-assignment\registrationrepo\obj\Debug\net8.0\registrationrepo.AssemblyInfo.cs
+C:\Users\818321\source\repos\course-assignment\registrationrepo\obj\Debug\net8.0\registrationrepo.csproj.CoreCompileInputs.cache
+C:\Users\818321\source\repos\course-assignment\registrationrepo\obj\Debug\net8.0\registrationrepo.dll
+C:\Users\818321\source\repos\course-assignment\registrationrepo\obj\Debug\net8.0\refint\registrationrepo.dll
+C:\Users\818321\source\repos\course-assignment\registrationrepo\obj\Debug\net8.0\registrationrepo.pdb
+C:\Users\818321\source\repos\course-assignment\registrationrepo\obj\Debug\net8.0\ref\registrationrepo.dll
+C:\Users\818321\source\repos\course-assignment\registrationrepo\obj\Debug\net8.0\registrationrepo.csproj.AssemblyReference.cache
